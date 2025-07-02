@@ -1,7 +1,7 @@
 # Read.me
 About me
 
-# 👋 Olá, eu sou o Ariel Vicotr!
+# 👋 Olá, eu sou o Ariel Victor!
 
 🎓 **Estudante de Engenharia da Computação** na [Universidade Federal do Amazonas (UFAM)](https://ufam.edu.br/)  
 🔒 Apaixonado por **cybersegurança** e **hacking ético**  
